@@ -1,0 +1,11 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Apply onboarding preset for use SebastienDegodez",
+  "extends": [
+    "config:recommended",
+    "github>SebastienDegodez/renovate-config"
+  ],
+  "labels": [
+    "renovate"
+  ],
+}
